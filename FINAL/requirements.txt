@@ -1,0 +1,4 @@
+tensorflow>=2.12
+scikit-learn>=1.0
+tensorboard>=2.12
+mediapipe>=0.10.0
